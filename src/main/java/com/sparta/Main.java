@@ -6,7 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-
         PalindromeCheck palCheck = new PalindromeCheck();
         System.out.println("Please type sentence to check for palindromes: ");
         String sentence = sc.nextLine();
