@@ -1,0 +1,16 @@
+String - immutable
+
+String pool - place in memory where strings are stored when created
+
+String.concat("end") creates 2 new strings
+
+// StringBuilder - mutable and has helpful methods
+- good when frequently changing contents
+
+.append() adds characters to the end
+.insert() add char at index
+.replace() replaces char at index
+.reverse() reverses the string
+
+.equals() to compare 2 strings / 2 stringbuilders
+== compares 2 objects
